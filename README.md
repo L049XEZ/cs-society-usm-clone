@@ -40,7 +40,4 @@ It is a **personal educational project** for web development practice.
 
 ---
 
-## 👩‍💻 Author
-**Name:** Low Yvonne  
-**University:** Universiti Sains Malaysia  
 **Project Date:** 9 February 2024  
